@@ -6,4 +6,5 @@
 ## 🗂 Documentação
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/)
-- [Resumos](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EYjkgVZuUv5HsVgJUEPv1_oB_QWs8MFBY_PBQ2UAtLqucg?rtime=ArHNxhS73Eg)
+- [Resumos](https://aline-antunes.gitbook.io/formacao-fundamentos-github/introducao-ao-git-e-github/principais-comandos-do-git )
+- [Principais Comandos Git-GitHub](https://aline-antunes.gitbook.io/formacao-fundamentos-github/introducao-ao-git-e-github/principais-comandos-do-git )
